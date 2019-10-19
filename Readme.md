@@ -64,3 +64,6 @@ Ten years ago, linear models were applied in various domains. Before application
 | Score                | 3      | 7     | 6     | 4      | 10    | 4     | 3     | 13    | 8     | 18    |
 | Percentage Score (%) | 7      | 16    | 14    | 9      | 23    | 9     | 7     | 30    | 18    | 41    |
 | Mean of Rankings     | 7.727  | 4.712 | 4.977 | 7.114  | 4.023 | 7.182 | 7.53  | 3.932 | 4.5   | 3.136 |
+
+
+## References
