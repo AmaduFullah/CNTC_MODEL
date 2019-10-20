@@ -62,4 +62,5 @@ settings feel free to refer to our paper.
 
 ## References
 If you utilise ideas of either code or results in your project, kindly reference our paper <br>
+
 **Combining Contextual Neural Networks for Time Series Classification**
