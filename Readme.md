@@ -8,7 +8,7 @@ The datasets used in this project are obtained from the UCR time series archive.
 
 ## Results
 This table provides results for the testing errors of our proposed and nine baseline models based on 44 UCR datasets. For implementation
-settings feel free to refer to our paper.
+settings feel free to refer to our paper. Our results indicate the outstanding performance of the proposed model.
 
 | Dataset              | ResNet | FCN   | ITRD  | DTW_F | DATS  | LPS   | MCNN  | NTSC  | TSCD  | CNTC  |
 | -------------------- | ------ | ----- | ----- | ------ | ----- | ----- | ----- | ----- | ----- | ----- |
