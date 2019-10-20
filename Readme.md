@@ -64,3 +64,7 @@ settings feel free to refer to our paper.
 If you utilise ideas of either code or results in your project, kindly reference our paper <br>
 
 **Combining Contextual Neural Networks for Time Series Classification**
+
+## Acknowledgement
+We are very much grateful to the providers of the UCR datasets archive. Also, we would like to thank the National Natural Science
+Foundation of China for their support.
