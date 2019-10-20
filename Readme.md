@@ -61,5 +61,5 @@ settings feel free to refer to our paper.
 | Mean of Rankings     | 7.727  | 4.712 | 4.977 | 7.114  | 4.023 | 7.182 | 7.53  | 3.932 | 4.5   | 3.136 |
 
 ## References
-If you utilise ideas of either code or results in your project, kindly reference our paper
+If you utilise ideas of either code or results in your project, kindly reference our paper <br>
 **Combining Contextual Neural Networks for Time Series Classification**
