@@ -6,7 +6,7 @@ This repository contains the architecture of our hybrid deep learning model. It 
 ## Data
 The datasets used in this project are obtained from the UCR time series archive.
 
-## Table 1:  Test errors and mean of rankings for fourty-four ucr datasets.
+## Results
 
 | Dataset              | ResNet | FCN   | ITRD  | DTW_F | DATS  | LPS   | MCNN  | NTSC  | TSCD  | CNTC  |
 | -------------------- | ------ | ----- | ----- | ------ | ----- | ----- | ----- | ----- | ----- | ----- |
