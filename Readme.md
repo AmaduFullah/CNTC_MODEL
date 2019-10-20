@@ -1,13 +1,10 @@
 ## Combining Contextual Neural Networks for Time Series Classification
 This repository contains the architecture of our hybrid deep learning model. It is a well-tailored deep learning approach to effectively address the Time Series Classification (TSC) problem.
 
-
-
 ![pdf](./model2.png)
 
-
-
-
+## Data
+The datasets used in this project are obtained from the UCR time series archive.
 
 ## Table 1:  Test errors and mean of rankings for fourty-four ucr datasets.
 
