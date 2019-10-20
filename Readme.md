@@ -61,4 +61,4 @@ settings feel free to refer to our paper.
 | Mean of Rankings     | 7.727  | 4.712 | 4.977 | 7.114  | 4.023 | 7.182 | 7.53  | 3.932 | 4.5   | 3.136 |
 
 ## References
-[I'm an inline-style link](https://www.google.com)
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
