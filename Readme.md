@@ -7,7 +7,7 @@ This repository contains the architecture of our hybrid deep learning model. It 
 The datasets used in this project are obtained from the UCR time series archive.
 
 ## Results
-This table provides results of testing errors for our proposed and nine baseline models based on 44 UCR datasets. For implementation
+This table provides results for the testing errors of our proposed and nine baseline models based on 44 UCR datasets. For implementation
 settings feel free to refer to our paper.
 
 | Dataset              | ResNet | FCN   | ITRD  | DTW_F | DATS  | LPS   | MCNN  | NTSC  | TSCD  | CNTC  |
